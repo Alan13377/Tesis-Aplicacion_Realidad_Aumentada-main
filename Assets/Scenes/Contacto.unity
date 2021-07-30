@@ -727,7 +727,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: http://gmail.com/
+          m_StringArgument: https://mail.google.com
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &696534607
@@ -995,7 +995,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: https://twitter.com/
+          m_StringArgument: https://twitter.com/ArExposition
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1145191199
@@ -1109,10 +1109,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sapien
-    magna, feugiat sed nulla quis, condimentum maximus leo. Nulla ut leo vel nisl
-    condimentum tempor. Aliquam orci nibh, congue quis lectus vel, tincidunt pulvinar
-    eros. Phasellus posuere ipsum vel tortor luctus eleifend. '
+  m_text: "Agradecemos el que use esta aplicaci\xF3n, en caso de querer brindar un
+    comentario, tener una queja o algo o alguna otra raz\xF3n por la cual quiera
+    ponerse en contacto con nosotros, dejaos a su disponibilidad las redes sociales
+    principales de la aplicaci\xF3n\r.\nCorreo Electronico: expositionar@gmail.com"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1139,8 +1139,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 20
-  m_fontSizeBase: 20
+  m_fontSize: 16
+  m_fontSizeBase: 16
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1278,7 +1278,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: https://www.facebook.com/
+          m_StringArgument: https://www.facebook.com/Exposition-AR-110510011328201
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1566266334
@@ -1535,6 +1535,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 571833270}
     m_Modifications:
+    - target: {fileID: 6100314264482078393, guid: 8e744cbdc5c157e4ca3c1dc34f1f49ff,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6100314264482078393, guid: 8e744cbdc5c157e4ca3c1dc34f1f49ff,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6100314264482078393, guid: 8e744cbdc5c157e4ca3c1dc34f1f49ff,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6100314264482078393, guid: 8e744cbdc5c157e4ca3c1dc34f1f49ff,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6100314264482078394, guid: 8e744cbdc5c157e4ca3c1dc34f1f49ff,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -1655,6 +1675,26 @@ PrefabInstance:
       propertyPath: m_Name
       value: Panel_SliderMenu
       objectReference: {fileID: 0}
+    - target: {fileID: 6100314264939191798, guid: 8e744cbdc5c157e4ca3c1dc34f1f49ff,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6100314264939191798, guid: 8e744cbdc5c157e4ca3c1dc34f1f49ff,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6100314264939191798, guid: 8e744cbdc5c157e4ca3c1dc34f1f49ff,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6100314264939191798, guid: 8e744cbdc5c157e4ca3c1dc34f1f49ff,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6100314264939191799, guid: 8e744cbdc5c157e4ca3c1dc34f1f49ff,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -1664,6 +1704,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: Scene
+      objectReference: {fileID: 0}
+    - target: {fileID: 6100314265763118482, guid: 8e744cbdc5c157e4ca3c1dc34f1f49ff,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6100314265763118482, guid: 8e744cbdc5c157e4ca3c1dc34f1f49ff,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6100314265763118482, guid: 8e744cbdc5c157e4ca3c1dc34f1f49ff,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6100314265763118482, guid: 8e744cbdc5c157e4ca3c1dc34f1f49ff,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6100314265763118483, guid: 8e744cbdc5c157e4ca3c1dc34f1f49ff,
         type: 3}

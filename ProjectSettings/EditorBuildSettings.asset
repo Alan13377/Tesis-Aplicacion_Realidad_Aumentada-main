@@ -18,10 +18,10 @@ EditorBuildSettings:
     path: Assets/Scenes/Modelos/Modelos_MonaLisa.unity
     guid: aea1bd2280e5bdd43830e9f2810a5080
   - enabled: 1
-    path: Assets/Scenes/PanelesInformacion/Cielo_Estrellado.unity
+    path: Assets/Scenes/Modelos/PanelesInformacion/Cielo_Estrellado.unity
     guid: b816dab3a63c4c94cbd330515129f2e6
   - enabled: 1
-    path: Assets/Scenes/PanelesInformacion/Autorretrato_Van.unity
+    path: Assets/Scenes/Modelos/PanelesInformacion/Autorretrato_Van.unity
     guid: 2b1dcbb9feeaee843b0856f575d98813
   - enabled: 1
     path: Assets/Scenes/Modelos/AutoRetrato.unity
@@ -30,61 +30,61 @@ EditorBuildSettings:
     path: Assets/Scenes/Modelos/Modelo_Noche.unity
     guid: ceb4236acebc64c468732a4ec7513d86
   - enabled: 1
-    path: Assets/Scenes/PanelesInformacion/El_Hijo_del_Hombre.unity
+    path: Assets/Scenes/Modelos/PanelesInformacion/El_Hijo_del_Hombre.unity
     guid: 7019f9e1d2ea4dc459ab68f2b1b1d887
   - enabled: 1
     path: Assets/Scenes/Modelos/El_Hijo.unity
     guid: a2def671309d8a94a834e1444843f88f
   - enabled: 1
-    path: Assets/Scenes/PanelesInformacion/El_hombre_controlador_del_universo.unity
+    path: Assets/Scenes/Modelos/PanelesInformacion/El_hombre_controlador_del_universo.unity
     guid: 84b4aec61c630a34bb9002cecd283a1d
   - enabled: 1
     path: Assets/Scenes/Modelos/El_Hombre.unity
     guid: 9491a78b4d1fb1b46b23483b90358d91
   - enabled: 1
-    path: Assets/Scenes/PanelesInformacion/Las_Meninas.unity
+    path: Assets/Scenes/Modelos/PanelesInformacion/Las_Meninas.unity
     guid: 24fde1cd51b18d5418d1ab51f06bbfe8
   - enabled: 1
     path: Assets/Scenes/Modelos/Las_meninasM.unity
     guid: 80062f1c0596c524c973fb28acbcf6f7
   - enabled: 1
-    path: Assets/Scenes/PanelesInformacion/Tarde_de_Domingo.unity
+    path: Assets/Scenes/Modelos/PanelesInformacion/Tarde_de_Domingo.unity
     guid: fc97f7ee89019fc46b445cd75f6ce06b
   - enabled: 1
     path: Assets/Scenes/Modelos/Tarde_Domingo.unity
     guid: 18c92835b83e9c84fad25c0abec57f0e
   - enabled: 1
-    path: Assets/Scenes/PanelesInformacion/Prometeo_trayendo_el_fuego.unity
+    path: Assets/Scenes/Modelos/PanelesInformacion/Prometeo_trayendo_el_fuego.unity
     guid: 2c5625f1b198bde4786c6ada25b7a74d
   - enabled: 1
     path: Assets/Scenes/Modelos/Prometeo.unity
     guid: 28f1fe099394edd4c9f4fe7a7e05bd1f
   - enabled: 1
-    path: Assets/Scenes/PanelesInformacion/La_persistencia_de_la_memoria.unity
+    path: Assets/Scenes/Modelos/PanelesInformacion/La_persistencia_de_la_memoria.unity
     guid: 945ce7b24aacf054c9be421f70f0e3f2
   - enabled: 1
     path: Assets/Scenes/Modelos/Persistencia.unity
     guid: 958108e5851ebc94db57dbc57cadf5ef
   - enabled: 1
-    path: Assets/Scenes/PanelesInformacion/NacimientoVenus.unity
+    path: Assets/Scenes/Modelos/PanelesInformacion/NacimientoVenus.unity
     guid: 0ea4139a4c506ff42bacaadb62884f96
   - enabled: 1
     path: Assets/Scenes/Modelos/Naciemiento_Venus.unity
     guid: eb733f5244b13ca49ba28096ce13cdb2
   - enabled: 1
-    path: Assets/Scenes/PanelesInformacion/ElGrito.unity
+    path: Assets/Scenes/Modelos/PanelesInformacion/ElGrito.unity
     guid: 6ee6731ff7355e348a755595ae8926f2
   - enabled: 1
     path: Assets/Scenes/Modelos/El_grito.unity
     guid: b5cf99a0ab8b36b41b6e13db2c1ac312
   - enabled: 1
-    path: Assets/Scenes/PanelesInformacion/Gotico_Estado.unity
+    path: Assets/Scenes/Modelos/PanelesInformacion/Gotico_Estado.unity
     guid: d301aafc9291bd841b197a1bdc49ba69
   - enabled: 1
     path: Assets/Scenes/Modelos/Gotico.unity
     guid: d52c62933379a0a4d9023a6758c3172f
   - enabled: 1
-    path: Assets/Scenes/PanelesInformacion/Hombre_de_Vitruvio.unity
+    path: Assets/Scenes/Modelos/PanelesInformacion/Hombre_de_Vitruvio.unity
     guid: a61175355dcf55044b3f7aa1203088d8
   - enabled: 1
     path: Assets/Scenes/Modelos/Vitruvio.unity

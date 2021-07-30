@@ -8,7 +8,7 @@ public class Ads_banner : MonoBehaviour
 
     public string gameId = "4099371";
     public string surfacingId = "Ads_Banner";
-    public bool testMode = true;
+    public bool testMode = false;
 
     void Start()
     {

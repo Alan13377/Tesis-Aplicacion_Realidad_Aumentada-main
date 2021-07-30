@@ -523,7 +523,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Creditos
+  m_text: Contacto
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1196,6 +1196,11 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3148392617421360893, guid: 760438c5bc6eed94f956a1e3c75da435,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.39
+      objectReference: {fileID: 0}
     - target: {fileID: 3148392617674007888, guid: 760438c5bc6eed94f956a1e3c75da435,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1276,15 +1281,25 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3148392618002701798, guid: 760438c5bc6eed94f956a1e3c75da435,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.39
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148392618002701798, guid: 760438c5bc6eed94f956a1e3c75da435,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.39
+      objectReference: {fileID: 0}
     - target: {fileID: 3148392618213334092, guid: 760438c5bc6eed94f956a1e3c75da435,
         type: 3}
       propertyPath: m_AnchorMin.x
-      value: 1
+      value: 0.53555554
       objectReference: {fileID: 0}
     - target: {fileID: 3148392618213334092, guid: 760438c5bc6eed94f956a1e3c75da435,
         type: 3}
       propertyPath: m_AnchorMax.x
-      value: 1
+      value: 0.53555554
       objectReference: {fileID: 0}
     - target: {fileID: 3148392618213334092, guid: 760438c5bc6eed94f956a1e3c75da435,
         type: 3}
@@ -1299,7 +1314,7 @@ PrefabInstance:
     - target: {fileID: 3148392618613294347, guid: 760438c5bc6eed94f956a1e3c75da435,
         type: 3}
       propertyPath: m_AnchorMin.x
-      value: 1
+      value: 0.53555554
       objectReference: {fileID: 0}
     - target: {fileID: 3148392618613294347, guid: 760438c5bc6eed94f956a1e3c75da435,
         type: 3}
@@ -1325,6 +1340,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3525099647045965389, guid: aa77b2c7f567fe34989d74ce45bf8fba,
+        type: 3}
+      propertyPath: testMode
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6251682847623754640, guid: aa77b2c7f567fe34989d74ce45bf8fba,
         type: 3}
       propertyPath: m_Name
