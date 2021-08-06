@@ -1379,7 +1379,7 @@ PrefabInstance:
         type: 3}
       propertyPath: clip
       value: 
-      objectReference: {fileID: 8300000, guid: 15ae32067defd6b4685838e14d3eaf98, type: 3}
+      objectReference: {fileID: 8300000, guid: 6aa4758801841c344b6a870631d526b9, type: 3}
     - target: {fileID: 2552714873428985234, guid: 4bbc34999e354624f9d5ce21f43df8f9,
         type: 3}
       propertyPath: m_LocalPosition.x
